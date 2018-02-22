@@ -13,20 +13,15 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "AptumTek GmbH"
-keywords:    ""
-description: ""
+keywords:    "software mobile ios android"
+description: "We are two software engineers with decades of experience, specialized in mobile applications. But we also know how to develop, run and scale the entire stack."
 source_link: "https://github.com/t413/SinglePaged"
 google_analytics_key: UA-114196826-1
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#222222'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  a: '#f9f9f9'
+  b: '#efefef'
 
 kramdown:
   auto_ids:  false

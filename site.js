@@ -16,10 +16,10 @@ $.extend($.easing,
     var disableScrollFn = false;
     var navItems;
     var navs = {}, sections = {};
+    var navHeight = $('#main nav').height();
 
     $.fn.navScroller = function(options) {
         settings = $.extend({
-            scrollToOffset: 170,
             scrollSpeed: 800,
             activateParentNode: true,
         }, options );
@@ -32,7 +32,7 @@ $.extend($.easing,
             disableScrollFn = true;
             activateNav(navID);
             populateDestinations(); //recalculate these!
-        	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
+        	$('html,body').animate({scrollTop: sections[navID] - navHeight},
                 settings.scrollSpeed, "easeInOutExpo", function(){
                     disableScrollFn = false;
                 }
@@ -48,7 +48,7 @@ $.extend($.easing,
             var page_height = $(window).height();
             var pos = $(this).scrollTop();
             for (i in sections) {
-                if ((pos + settings.scrollToOffset >= sections[i]) && sections[i] < pos + page_height){
+                if ((pos + navHeight >= sections[i]) && sections[i] < pos + page_height){
                     activateNav(i);
                 }
             }
@@ -86,7 +86,7 @@ $(document).ready(function (){
         		event.preventDefault();
                 var target = $(event.target).closest("a");
                 var targetHight =  $(target.attr("href")).offset().top
-            	$('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
+            	$('html,body').animate({scrollTop: targetHight - navHeight}, 800, "easeInOutExpo");
             });
         }
 	});
