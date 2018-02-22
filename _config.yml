@@ -22,6 +22,7 @@ google_analytics_key: UA-114196826-1
 colors:
   a: '#f9f9f9'
   b: '#efefef'
+  white: '#ffffff'
 
 kramdown:
   auto_ids:  false
