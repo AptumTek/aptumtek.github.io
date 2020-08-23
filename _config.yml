@@ -195,6 +195,7 @@ sitemap_exclude: # Sitemap will exclude the following items.
     - /posts/
     - /sw.js
     - /tabs/
+    - /tabs/blog/
     - /tags/
     - 404.html
     - feed.xml
