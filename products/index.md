@@ -1,4 +1,5 @@
 ---
+description: We're not only working for other companies as consultants/developers. Sometimes we develop our own products.
 title: Products
 ---
 

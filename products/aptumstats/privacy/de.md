@@ -1,4 +1,5 @@
 ---
+description: Die App AptumStats gehört der AptumTek GmbH und wird von dieser Entwickelt.
 title: AptumStats - Datenschutzerklärung
 ---
 

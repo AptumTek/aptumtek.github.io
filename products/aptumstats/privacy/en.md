@@ -1,4 +1,5 @@
 ---
+description: The App AptumStats is developed and owned by AptumTek GmbH.
 title: AptumStats - Privacy
 ---
 
