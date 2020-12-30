@@ -107,6 +107,11 @@ defaults:
       layout: page
       dynamic_title: true # Hide title in mobile screens.
   - scope:
+      path: 'products'
+    values:
+      layout: page
+      dynamic_title: true # Hide title in mobile screens.
+  - scope:
       path: '_posts'
       type: posts
     values:
