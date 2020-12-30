@@ -6,9 +6,9 @@
 
 - name: About
   icon: fas fa-home
-#- name: Products
-#  path: products
-#  icon: fas fa-database
+- name: Products
+  path: products
+  icon: fas fa-database
 #- name: Blog
 #  path: tabs
 #  url: blog
