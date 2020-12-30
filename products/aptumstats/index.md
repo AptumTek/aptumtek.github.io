@@ -1,6 +1,6 @@
 ---
 description: AptumStats is an iOS App that helps you answer one question: How much money do I spend on Amazon?
-title: AptumStats
+title: AptumStats - Amazon Order History Reporter
 ---
 
 ![AptumStats](/assets/img/aptumstats.png){:.app-icon}
