@@ -191,6 +191,7 @@ exclude:
 sitemap_exclude: # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
+    - /products/aptumstats/privacy/
   accurate:
     - /app.js
     - /categories/
