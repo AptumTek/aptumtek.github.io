@@ -13,3 +13,4 @@ Die App AptumStats gehört der [AptumTek GmbH](https://aptumtek.com) und wird vo
 * Sobald du die App löschst, sind auch alle Daten damit gelöscht
 * Um eine gute Qualität zu gewährleisten, benutzen wir Firebase Crashlytics um Abstürze der App zu melden
 * Diese Absturzreports werden zu Crashlytics geschickt, enthalten aber keine persönlichen Daten
+* Es wird Firebase Analytics verwendet, um herauszufinden welche Funktionen gut funktionieren. Alle Daten, die zu Firebase Analytics gesendet werden, sind anonym

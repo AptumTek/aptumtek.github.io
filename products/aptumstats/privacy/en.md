@@ -13,3 +13,4 @@ The App AptumStats is developed and owned by [AptumTek GmbH](https://aptumtek.co
 * As soon as you delete the App, the data is deleted as well
 * To ensure a high quality product, we use Firebase Crashlytics for crash reporting
 * The crash reports sent to Crashlytics do not contain any personal data
+* Firebase Analytics is being used to validate features. All data collected is anonymous
