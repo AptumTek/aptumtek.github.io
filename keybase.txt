@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/plu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aptumtek.com
+  * I am plu (https://keybase.io/plu) on keybase.
+  * I have a public key ASAdVHHooUue_jaHRIeSQ6RDXCjMw9uDCfKRymK7A0TUfwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201d5471e8a14b9efe368744879243a4435c28ccc3db8309f291ca62bb0344d47f0a",
+      "host": "keybase.io",
+      "kid": "01201d5471e8a14b9efe368744879243a4435c28ccc3db8309f291ca62bb0344d47f0a",
+      "uid": "0b7cc5b1e00cf6079793b22a4fae1400",
+      "username": "plu"
+    },
+    "merkle_root": {
+      "ctime": 1522593566,
+      "hash": "8911846e617061f047e6ac774bc033c954eecd554681888a5318cf9a58ec22edcee9935f0ac17dd2097d37e8e18073d88338c952e02a6966ebbafa2740d118ca",
+      "hash_meta": "ef94b04c12523f7cf3e6b51ee35da79a332ec748c0409ed69a7b86628b2c8809",
+      "seqno": 2319324
+    },
+    "service": {
+      "hostname": "aptumtek.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522593583,
+  "expire_in": 504576000,
+  "prev": "062d1785e37413f17d415eca00206c5f18efa42bd55ecabf1e794d05b1f40c6e",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHVRx6KFLnv42h0SHkkOkQ1wozMPbgwnykcpiuwNE1H8Kp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWQ1NDcxZThhMTRiOWVmZTM2ODc0NDg3OTI0M2E0NDM1YzI4Y2NjM2RiODMwOWYyOTFjYTYyYmIwMzQ0ZDQ3ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWQ1NDcxZThhMTRiOWVmZTM2ODc0NDg3OTI0M2E0NDM1YzI4Y2NjM2RiODMwOWYyOTFjYTYyYmIwMzQ0ZDQ3ZjBhIiwidWlkIjoiMGI3Y2M1YjFlMDBjZjYwNzk3OTNiMjJhNGZhZTE0MDAiLCJ1c2VybmFtZSI6InBsdSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMjU5MzU2NiwiaGFzaCI6Ijg5MTE4NDZlNjE3MDYxZjA0N2U2YWM3NzRiYzAzM2M5NTRlZWNkNTU0NjgxODg4YTUzMThjZjlhNThlYzIyZWRjZWU5OTM1ZjBhYzE3ZGQyMDk3ZDM3ZThlMTgwNzNkODgzMzhjOTUyZTAyYTY5NjZlYmJhZmEyNzQwZDExOGNhIiwiaGFzaF9tZXRhIjoiZWY5NGIwNGMxMjUyM2Y3Y2YzZTZiNTFlZTM1ZGE3OWEzMzJlYzc0OGMwNDA5ZWQ2OWE3Yjg2NjI4YjJjODgwOSIsInNlcW5vIjoyMzE5MzI0fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFwdHVtdGVrLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIyNTkzNTgzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjA2MmQxNzg1ZTM3NDEzZjE3ZDQxNWVjYTAwMjA2YzVmMThlZmE0MmJkNTVlY2FiZjFlNzk0ZDA1YjFmNDBjNmUiLCJzZXFubyI6NDEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RApY9kSCP2YDAM0FTj7SQEsPY+kL52jsCsGH6pgiycNrwo02MXsm3UG8tzPiyJfgM/p6oEC78niOQEf1Ic3qV2BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHrhKbRWnTNtZSH3G3riDiQmRstikXyjRHSkNGPpypBIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/plu
+
+==================================================================
