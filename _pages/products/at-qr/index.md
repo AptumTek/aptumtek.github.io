@@ -12,4 +12,4 @@ Simple QR Code generator.
 
 ![AT QR Screenshot](/assets/images/at-qr-screen1.png){:.app-screenshot}
 
-[Privacy](privacy/en)
+[Privacy](products/at-qr/privacy/en)
