@@ -8,6 +8,8 @@ permalink: /products/less-paper
 
 Less Paper is a native iOS/macOS client for [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx).
 
+If you have questions or feedback, please contact us at [contact@aptumtek.com](mailto:contact@aptumtek.com).
+
 ## iPhone
 ![Less Paper iOS Screenshot](/assets/images/less-paper-screen-ios.png){:.app-screenshot}
 
