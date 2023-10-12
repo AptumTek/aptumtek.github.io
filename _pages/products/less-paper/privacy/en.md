@@ -10,3 +10,4 @@ The App Less Paper is developed and owned by [AptumTek GmbH](https://aptumtek.co
 
 * Our user's privacy is our highest priority
 * None of your personal data is shared with any third party, neither with AptumTek GmbH, at any time
+* We're collecting anonymous usage date using [TelemetryDeck](https://telemetrydeck.com)
