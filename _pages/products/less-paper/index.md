@@ -13,12 +13,20 @@ Less Paper is a native iOS/macOS client for [paperless-ngx](https://github.com/p
 If you have questions or feedback, please contact us at [contact@aptumtek.com](mailto:contact@aptumtek.com).
 
 ## iPhone
-![Less Paper iOS Screenshot](/assets/images/less-paper-screen-ios.png){:.app-screenshot}
+[![Inbox](/assets/images/less-paper/en-US/snapshots-iOS_65-01-Inbox_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-01-Inbox_framed.png)
+[![Documents](/assets/images/less-paper/en-US/snapshots-iOS_65-02-Documents_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-02-Documents_framed.png)
+[![Search](/assets/images/less-paper/en-US/snapshots-iOS_65-03-Search_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-03-Search_framed.png)
+[![By Tags](/assets/images/less-paper/en-US/snapshots-iOS_65-04-TagFilter_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-04-TagFilter_framed.png)
+[![View](/assets/images/less-paper/en-US/snapshots-iOS_65-05-DocumentView_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-05-DocumentView_framed.png)
+[![Edit](/assets/images/less-paper/en-US/snapshots-iOS_65-06-DocumentEdit_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-06-DocumentEdit_framed.png)
+[![Settings](/assets/images/less-paper/en-US/snapshots-iOS_65-07-Settings_framed.png){:.app-screenshot}](/assets/images/less-paper/en-US/snapshots-iOS_65-07-Settings_framed.png)
 
 ## iPad
-![Less Paper iPadOS Screenshot](/assets/images/less-paper-screen-ipados.png){:.ipad-screenshot}
-
-## macOS
-![Less Paper macOS Screenshot](/assets/images/less-paper-screen-macos.png){:.macos-screenshot}
+[![Inbox](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-01-Inbox_framed.png){:.ipad-screenshot}](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-01-Inbox_framed.png)
+[![Documents](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-02-Documents_framed.png){:.ipad-screenshot}](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-02-Documents_framed.png)
+[![Search](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-03-Search_framed.png){:.ipad-screenshot}](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-03-Search_framed.png)
+[![By Tags](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-04-TagFilter_framed.png){:.ipad-screenshot}](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-04-TagFilter_framed.png)
+[![View](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-05-DocumentView_framed.png){:.ipad-screenshot}](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-05-DocumentView_framed.png)
+[![Settings](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-07-Settings_framed.png){:.ipad-screenshot}](/assets/images/less-paper/en-US/snapshots-IOS_IPAD_PRO-07-Settings_framed.png)
 
 [Privacy](/products/less-paper/privacy/en)
