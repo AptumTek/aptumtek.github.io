@@ -8,6 +8,6 @@ We're not only working for other companies as consultants/developers. Sometimes 
 
 ## Less Paper
 
-[![Less Paper](/assets/images/less-paper.png){:.app-icon}](/products/less-paper)
+[![Less Paper](/assets/images/less-paper/icon.png){:.app-icon}](/products/less-paper)
 
 Native iOS/macOS client for [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx).
