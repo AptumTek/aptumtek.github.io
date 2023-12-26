@@ -32,12 +32,6 @@ Wir verwenden auch Firebase Analytics, ebenfalls von Firebase bereitgestellt, um
 
 Weitere Informationen zur Handhabung von Daten durch Firebase Analytics finden Sie in der Datenschutzrichtlinie von Firebase: [Firebase Datenschutzrichtlinie](https://firebase.google.com/support/privacy/)
 
-**Telemetrydeck**
-
-Wir verwenden Telemetrydeck zur Sammlung von Telemetriedaten zur Überwachung und Verbesserung der Leistung unserer App. Telemetrydeck kann automatisch bestimmte Informationen wie App-Nutzungsmetriken und Leistungsdaten erfassen. Diese Daten sind anonymisiert und identifizieren einzelne Benutzer nicht persönlich.
-
-Weitere Informationen zur Handhabung von Daten durch Telemetrydeck finden Sie in der Datenschutzrichtlinie von Telemetrydeck: [Telemetrydeck Datenschutzrichtlinie](https://telemetrydeck.com/privacy)
-
 **Änderungen dieser Datenschutzrichtlinie**
 
 Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Über Änderungen informieren wir Sie, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.

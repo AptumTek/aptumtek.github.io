@@ -32,12 +32,6 @@ We use Firebase Analytics, also provided by Firebase, to collect anonymized and 
 
 For more information on how Firebase Analytics handles data, please refer to Firebase's Privacy Policy: [Firebase Privacy Policy](https://firebase.google.com/support/privacy/)
 
-**Telemetrydeck**
-
-We use Telemetrydeck to collect telemetry data for monitoring and improving the performance of our app. Telemetrydeck may automatically collect certain information, such as app usage metrics and performance data. This data is anonymized and does not personally identify individual users.
-
-For more information on how Telemetrydeck handles data, please refer to Telemetrydeck's Privacy Policy: [Telemetrydeck Privacy Policy](https://telemetrydeck.com/privacy)
-
 **Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
