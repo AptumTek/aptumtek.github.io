@@ -26,12 +26,6 @@ We use Firebase Crashlytics, a service provided by Google LLC ("Firebase"), to c
 
 For more information on how Firebase Crashlytics handles data, please refer to Firebase's Privacy Policy: [Firebase Privacy Policy](https://firebase.google.com/support/privacy/)
 
-**Firebase Analytics**
-
-We use Firebase Analytics, also provided by Firebase, to collect anonymized and aggregated usage data. This helps us understand how users interact with our app and enables us to make informed decisions for app improvements. Firebase Analytics does not collect personally identifiable information.
-
-For more information on how Firebase Analytics handles data, please refer to Firebase's Privacy Policy: [Firebase Privacy Policy](https://firebase.google.com/support/privacy/)
-
 **Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.

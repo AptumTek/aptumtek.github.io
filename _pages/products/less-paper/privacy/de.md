@@ -26,12 +26,6 @@ Wir verwenden Firebase Crashlytics, einen Dienst von Google LLC ("Firebase"), um
 
 Weitere Informationen zur Handhabung von Daten durch Firebase Crashlytics finden Sie in der Datenschutzrichtlinie von Firebase: [Firebase Datenschutzrichtlinie](https://firebase.google.com/support/privacy/)
 
-**Firebase Analytics**
-
-Wir verwenden auch Firebase Analytics, ebenfalls von Firebase bereitgestellt, um anonymisierte und aggregierte Nutzungsdaten zu sammeln. Dies hilft uns zu verstehen, wie Benutzer mit unserer App interagieren, und ermöglicht fundierte Entscheidungen zur Verbesserung der App. Firebase Analytics erfasst keine personenbezogenen Informationen.
-
-Weitere Informationen zur Handhabung von Daten durch Firebase Analytics finden Sie in der Datenschutzrichtlinie von Firebase: [Firebase Datenschutzrichtlinie](https://firebase.google.com/support/privacy/)
-
 **Änderungen dieser Datenschutzrichtlinie**
 
 Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Über Änderungen informieren wir Sie, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.
